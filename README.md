@@ -1,2 +1,2 @@
 # ARIMAStockMarketProject
-Personal Project using Autoregressive Integrated Moving Average(ARIMA) to predict short term market movements. 
+Personal Project using Autoregressive Integrated Moving Average(ARIMA) to predict short-term market movements. Created using python and several libraries such as statmodels, sklearn, and pmdarima. I demonstrated my skills in machine learning to create a model that uses time-series analysis to as close to accurate predict closing prices for stocks. To change which stock is used, just modify the code adding in the csv file and put in whatever csv file with stock prices you want. 
